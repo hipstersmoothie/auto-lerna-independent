@@ -1,0 +1,11 @@
+{
+  "name": "root",
+  "private": true,
+  "scripts": {
+    "release": "auto shipit"
+  },
+  "devDependencies": {
+    "auto": "^5.0.1",
+    "lerna": "^3.4.3"
+  }
+}

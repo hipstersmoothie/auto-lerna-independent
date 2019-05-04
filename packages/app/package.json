@@ -1,0 +1,29 @@
+{
+  "name": "@autorelease/test-app",
+  "version": "1.0.0",
+  "description": "> TODO: description",
+  "author": "Andrew Lisowski <lisowski54@gmail.com>",
+  "homepage": "https://github.com/hipstersmoothie/commently#readme",
+  "license": "ISC",
+  "main": "lib/app.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hipstersmoothie/commently.git"
+  },
+  "scripts": {
+    "start": "node ."
+  },
+  "bugs": {
+    "url": "https://github.com/hipstersmoothie/commently/issues"
+  },
+  "dependencies": {
+    "@autorelease/test-lib": "^1.0.0"
+  }
+}

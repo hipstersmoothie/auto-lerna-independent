@@ -1,0 +1,58 @@
+version: 2.1
+
+defaults: &defaults
+  working_directory: ~/auto-independent
+  docker:
+    - image: circleci/node:8.14-browsers
+  environment:
+    TZ: '/usr/share/zoneinfo/America/Los_Angeles'
+
+aliases:
+  # Circle related commands
+  - &restore-cache
+    keys:
+      # Find a cache corresponding to this specific package.json checksum
+      # when this file is changed, this key will fail
+      - auto-independent-{{ checksum "yarn.lock" }}-{{ checksum ".circleci/config.yml" }}
+      - auto-independent-{{ checksum "yarn.lock" }}
+      # Find the most recent cache used from any branch
+      - auto-independent-
+  - &save-cache
+    key: auto-independent-{{ checksum "yarn.lock" }}-{{ checksum ".circleci/config.yml" }}
+    paths:
+      - ~/.cache/yarn
+      - node_modules
+  # Yarn commands
+  - &yarn
+    name: Install Dependencies
+    command: yarn install --frozen-lockfile --non-interactive --cache-folder=~/.cache/yarn
+
+jobs:
+  install:
+    <<: *defaults
+    steps:
+      - checkout
+      - restore_cache: *restore-cache
+      - run: *yarn
+      - save_cache: *save-cache
+      - persist_to_workspace:
+          root: .
+          paths:
+            - .
+
+  release:
+    <<: *defaults
+    steps:
+      - attach_workspace:
+          at: ~/auto-independent
+      - run: mkdir ~/.ssh/ && echo -e "Host github.com\n\tStrictHostKeyChecking no\n" > ~/.ssh/config
+      - run:
+          name: Release
+          command: yarn run release
+
+workflows:
+  version: 2
+  build_and_test:
+    jobs:
+      - install
+      - release
