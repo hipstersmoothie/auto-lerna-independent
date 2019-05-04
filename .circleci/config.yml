@@ -55,4 +55,6 @@ workflows:
   build_and_test:
     jobs:
       - install
-      - release
+      - release:
+          requires:
+            - install
