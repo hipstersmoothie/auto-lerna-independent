@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "> TODO: description",
   "author": "Andrew Lisowski <lisowski54@gmail.com>",
-  "homepage": "https://github.com/hipstersmoothie/commently#readme",
+  "homepage": "https://github.com/hipstersmoothie/auto-lerna-independant#readme",
   "license": "ISC",
   "main": "lib/lib.js",
   "directories": {
@@ -15,12 +15,12 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hipstersmoothie/commently.git"
+    "url": "git+https://github.com/hipstersmoothie/auto-lerna-independant.git"
   },
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "bugs": {
-    "url": "https://github.com/hipstersmoothie/commently/issues"
+    "url": "https://github.com/hipstersmoothie/auto-lerna-independant/issues"
   }
 }
