@@ -9,5 +9,6 @@
   "devDependencies": {
     "auto": "^5.0.1",
     "lerna": "^3.4.3"
-  }
+  },
+  "version": "0.0.0"
 }
