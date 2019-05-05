@@ -7,5 +7,5 @@
 ```
 const lib = require('lib');
 
-// TODO: DEMONSTRATE API
+// TODO: DEMONSTRATE API.
 ```
