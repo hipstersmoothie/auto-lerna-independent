@@ -7,7 +7,7 @@
     "release": "auto shipit"
   },
   "devDependencies": {
-    "auto": "^5.0.1",
+    "auto": "^6.1.0",
     "lerna": "^3.4.3"
   },
   "version": "0.0.0"
