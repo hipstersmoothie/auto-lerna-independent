@@ -5,6 +5,23 @@
 - new release  ([@hipstersmoothie](https://github.com/hipstersmoothie))
 - update auto  ([@hipstersmoothie](https://github.com/hipstersmoothie))
 - `@autorelease/test-lib@1.0.11`
+  - another  ([@hipstersmoothie](https://github.com/hipstersmoothie))
+- `@autorelease/test-lib@1.0.11`
+  - new release  ([@hipstersmoothie](https://github.com/hipstersmoothie))
+
+#### Authors: 1
+
+- Andrew Lisowski ([@hipstersmoothie](https://github.com/hipstersmoothie))
+
+---
+
+# (Thu May 30 2019)
+
+#### ⚠️  Pushed to master
+
+- new release  ([@hipstersmoothie](https://github.com/hipstersmoothie))
+- update auto  ([@hipstersmoothie](https://github.com/hipstersmoothie))
+- `@autorelease/test-lib@1.0.11`
   - new release  ([@hipstersmoothie](https://github.com/hipstersmoothie))
 
 #### Authors: 1
