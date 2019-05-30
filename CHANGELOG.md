@@ -41,6 +41,19 @@
 
 #### ⚠️  Pushed to master
 
+- `@autorelease/test-lib@3.0.1`
+  - diff versions  ([@hipstersmoothie](https://github.com/hipstersmoothie))
+
+#### Authors: 1
+
+- Andrew Lisowski ([@hipstersmoothie](https://github.com/hipstersmoothie))
+
+---
+
+# (Thu May 30 2019)
+
+#### ⚠️  Pushed to master
+
 - `@autorelease/test-lib@2.0.0`
   - diff versions  ([@hipstersmoothie](https://github.com/hipstersmoothie))
 
