@@ -1,6 +1,6 @@
 {
   "name": "@autorelease/test-app",
-  "version": "1.0.15",
+  "version": "1.0.16",
   "description": "> TODO: description",
   "author": "Andrew Lisowski <lisowski54@gmail.com>",
   "homepage": "https://github.com/hipstersmoothie/auto-lerna-independant#readme",
@@ -27,6 +27,6 @@
     "url": "https://github.com/hipstersmoothie/auto-lerna-independant/issues"
   },
   "dependencies": {
-    "@autorelease/test-lib": "^1.0.15"
+    "@autorelease/test-lib": "^1.0.16"
   }
 }
