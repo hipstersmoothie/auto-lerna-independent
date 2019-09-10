@@ -1,5 +1,18 @@
 # (Mon Sep 09 2019)
 
+#### 🚀  Enhancement
+
+- `@autorelease/test-app@2.1.0`, `@autorelease/test-lib@3.1.0`
+  - Changed something in 2 packages [#2](https://github.com/hipstersmoothie/auto-lerna-independent/pull/2) ([@hipstersmoothie](https://github.com/hipstersmoothie))
+
+#### Authors: 1
+
+- Andrew Lisowski ([@hipstersmoothie](https://github.com/hipstersmoothie))
+
+---
+
+# (Mon Sep 09 2019)
+
 #### 🐛  Bug Fix
 
 - `@autorelease/test-app@2.0.20`
