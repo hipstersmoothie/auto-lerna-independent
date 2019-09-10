@@ -1,3 +1,16 @@
+# (Mon Sep 09 2019)
+
+#### 🐛  Bug Fix
+
+- `@autorelease/test-app@2.0.20`
+  - fixed a bug [#1](https://github.com/hipstersmoothie/auto-lerna-independent/pull/1) ([@hipstersmoothie](https://github.com/hipstersmoothie))
+
+#### Authors: 1
+
+- Andrew Lisowski ([@hipstersmoothie](https://github.com/hipstersmoothie))
+
+---
+
 # (Thu May 30 2019)
 
 #### ⚠️  Pushed to master
