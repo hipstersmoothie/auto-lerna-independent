@@ -4,7 +4,7 @@
   "repository": "hipstersmoothie/auto-lerna-independent",
   "author": "Andrew Lisowski <lisowski54@gmail.com>",
   "scripts": {
-    "release": "auto shipit"
+    "release": "auto shipit -w"
   },
   "devDependencies": {
     "auto": "^7.4.4",
