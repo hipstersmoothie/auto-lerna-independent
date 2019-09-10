@@ -3,6 +3,9 @@
   "private": true,
   "repository": "hipstersmoothie/auto-lerna-independent",
   "author": "Andrew Lisowski <lisowski54@gmail.com>",
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org"
+  },
   "scripts": {
     "release": "auto shipit -w"
   },
