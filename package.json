@@ -3,11 +3,14 @@
   "private": true,
   "repository": "hipstersmoothie/auto-lerna-independent",
   "author": "Andrew Lisowski <lisowski54@gmail.com>",
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org"
+  },
   "scripts": {
-    "release": "auto shipit"
+    "release": "auto shipit -w"
   },
   "devDependencies": {
-    "auto": "^6.1.0",
+    "auto": "^7.4.4",
     "lerna": "^3.4.3"
   },
   "version": "0.0.0"
