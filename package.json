@@ -14,5 +14,11 @@
     "auto": "7.16.1-canary.697.9123.0",
     "lerna": "^3.4.3"
   },
-  "version": "0.0.0"
+  "version": "0.0.0",
+  "auto": {
+    "plugins": [
+      "npm",
+      "./scripts/commit.js"
+    ]
+  }
 }
