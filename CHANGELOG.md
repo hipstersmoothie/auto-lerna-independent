@@ -1,3 +1,15 @@
+# v3.1.6 (Thu Nov 14 2019)
+
+#### ⚠️  Pushed to master
+
+- no packages  ([@hipstersmoothie](https://github.com/hipstersmoothie))
+
+#### Authors: 1
+
+- Andrew Lisowski ([@hipstersmoothie](https://github.com/hipstersmoothie))
+
+---
+
 # (Thu Nov 14 2019)
 
 #### ⚠️  Pushed to master
