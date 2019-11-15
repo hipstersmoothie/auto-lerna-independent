@@ -1,6 +1,6 @@
 # `lib`
 
-> TODO: description
+> TODO: description...
 
 ## Usage
 
