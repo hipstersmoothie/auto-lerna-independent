@@ -10,7 +10,7 @@
     "release": "auto shipit -w"
   },
   "devDependencies": {
-    "auto": "^7.4.4",
+    "auto": "7.16.1-canary.697.9123.0",
     "lerna": "^3.4.3"
   },
   "version": "0.0.0"
