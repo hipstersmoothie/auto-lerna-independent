@@ -1,3 +1,16 @@
+# v3.2.3 (Wed Nov 27 2019)
+
+#### ⚠️  Pushed to master
+
+- `@autorelease/test-app@3.2.3`, `@autorelease/test-lib@4.2.4`
+  - working  ([@hipstersmoothie](https://github.com/hipstersmoothie))
+
+#### Authors: 1
+
+- Andrew Lisowski ([@hipstersmoothie](https://github.com/hipstersmoothie))
+
+---
+
 # v3.2.2 (Wed Nov 27 2019)
 
 #### ⚠️  Pushed to master
