@@ -1,3 +1,15 @@
+# v3.1.14 (Wed Nov 27 2019)
+
+#### ⚠️  Pushed to master
+
+- working  ([@hipstersmoothie](https://github.com/hipstersmoothie))
+
+#### Authors: 1
+
+- Andrew Lisowski ([@hipstersmoothie](https://github.com/hipstersmoothie))
+
+---
+
 # v3.1.7 (Wed Nov 27 2019)
 
 #### ⚠️  Pushed to master
