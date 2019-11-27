@@ -3,6 +3,20 @@
 #### ⚠️  Pushed to master
 
 - remove testing plugin  ([@hipstersmoothie](https://github.com/hipstersmoothie))
+- `@autorelease/test-app@3.2.1`, `@autorelease/test-lib@4.2.2`
+  - working  ([@hipstersmoothie](https://github.com/hipstersmoothie))
+
+#### Authors: 1
+
+- Andrew Lisowski ([@hipstersmoothie](https://github.com/hipstersmoothie))
+
+---
+
+# (Wed Nov 27 2019)
+
+#### ⚠️  Pushed to master
+
+- remove testing plugin  ([@hipstersmoothie](https://github.com/hipstersmoothie))
 
 #### Authors: 1
 
