@@ -1,7 +1,7 @@
 {
   "name": "test",
   "private": true,
-  "description": "foo..........",
+  "description": "foo...........",
   "repository": "hipstersmoothie/auto-lerna-independent",
   "author": "Andrew Lisowski <lisowski54@gmail.com>",
   "publishConfig": {
