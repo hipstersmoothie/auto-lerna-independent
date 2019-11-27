@@ -1,3 +1,16 @@
+# (Wed Nov 27 2019)
+
+#### ⚠️  Pushed to master
+
+- `@autorelease/test-lib@4.2.1`
+  - switch to independent  ([@hipstersmoothie](https://github.com/hipstersmoothie))
+
+#### Authors: 1
+
+- Andrew Lisowski ([@hipstersmoothie](https://github.com/hipstersmoothie))
+
+---
+
 # v3.1.17 (Wed Nov 27 2019)
 
 #### ⚠️  Pushed to master
