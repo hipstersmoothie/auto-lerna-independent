@@ -1,3 +1,20 @@
+# v3.1.7 (Wed Nov 27 2019)
+
+#### ⚠️  Pushed to master
+
+- working  ([@hipstersmoothie](https://github.com/hipstersmoothie))
+- add commit plugin  ([@hipstersmoothie](https://github.com/hipstersmoothie))
+- `@autorelease/test-app`, `@autorelease/test-lib`
+  - v3.1.8-next.0  ([@hipstersmoothie](https://github.com/hipstersmoothie))
+- `@autorelease/test-app`, `@autorelease/test-lib`
+  - v3.1.7-alpha.0  ([@hipstersmoothie](https://github.com/hipstersmoothie))
+
+#### Authors: 1
+
+- Andrew Lisowski ([@hipstersmoothie](https://github.com/hipstersmoothie))
+
+---
+
 # v3.1.6 (Thu Nov 14 2019)
 
 #### ⚠️  Pushed to master
