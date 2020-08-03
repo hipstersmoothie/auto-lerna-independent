@@ -1,5 +1,21 @@
 # v3.2.6 (Mon Aug 03 2020)
 
+#### 🐛 Bug Fix
+
+- Update CHANGELOG.md \[skip ci\] (lisowski54@gmail.com)
+
+#### ⚠️ Pushed to `master`
+
+- working (lisowski54@gmail.com)
+
+#### Authors: 1
+
+- Andrew Lisowski (lisowski54@gmail.com)
+
+---
+
+# v3.2.6 (Mon Aug 03 2020)
+
 #### ⚠️ Pushed to `master`
 
 - working (lisowski54@gmail.com)
