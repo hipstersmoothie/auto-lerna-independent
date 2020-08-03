@@ -1,3 +1,15 @@
+# v4.2.7 (Mon Aug 03 2020)
+
+#### ⚠️ Pushed to `master`
+
+- working (lisowski54@gmail.com)
+
+#### Authors: 1
+
+- Andrew Lisowski (lisowski54@gmail.com)
+
+---
+
 # v4.2.6 (Wed Nov 27 2019)
 
 #### ⚠️  Pushed to master
