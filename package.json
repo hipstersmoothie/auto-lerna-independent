@@ -1,7 +1,7 @@
 {
   "name": "test",
   "private": true,
-  "description": "foo......",
+  "description": "foo.....",
   "repository": "hipstersmoothie/auto-lerna-independent",
   "author": "Andrew Lisowski <lisowski54@gmail.com>",
   "publishConfig": {
@@ -12,7 +12,7 @@
   },
   "devDependencies": {
     "auto": "^9.49.3",
-    "lerna": "^3.22.1"
+    "lerna": "^3.13.4"
   },
   "version": "0.0.0",
   "auto": {
