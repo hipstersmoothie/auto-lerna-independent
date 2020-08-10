@@ -11,7 +11,14 @@
     "titleBar.inactiveForeground": "#15202b99",
     "statusBar.background": "#ec9a24",
     "statusBarItem.hoverBackground": "#cb7f12",
-    "statusBar.foreground": "#15202b"
+    "statusBar.foreground": "#15202b",
+    "activityBar.activeBackground": "#f0b053",
+    "activityBar.activeBorder": "#0d935c",
+    "editorGroup.border": "#f0b053",
+    "panel.border": "#f0b053",
+    "sideBar.border": "#f0b053",
+    "statusBar.border": "#ec9a24",
+    "titleBar.border": "#ec9a24"
   },
   "peacock.color": "#ec9a24"
 }
