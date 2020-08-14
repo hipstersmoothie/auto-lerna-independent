@@ -1,3 +1,24 @@
+# v4.2.11 (Fri Aug 14 2020)
+
+#### ⚠️ Pushed to `master`
+
+- Merge next into master (lisowski54@gmail.com)
+- test (lisowski54@gmail.com)
+- test dpes (lisowski54@gmail.com)
+- fix versions (lisowski54@gmail.com)
+- tester (lisowski54@gmail.com)
+- TEMP COMMIT (lisowski54@gmail.com)
+- test 2 (lisowski54@gmail.com)
+- versions (lisowski54@gmail.com)
+- changes 1 (lisowski54@gmail.com)
+- changes (lisowski54@gmail.com)
+
+#### Authors: 1
+
+- Andrew Lisowski ([@hipstersmoothie](https://github.com/hipstersmoothie))
+
+---
+
 # v4.2.7 (Mon Aug 03 2020)
 
 #### 🐛 Bug Fix

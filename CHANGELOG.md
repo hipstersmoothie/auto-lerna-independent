@@ -1,3 +1,58 @@
+# (Fri Aug 14 2020)
+
+#### ⚠️ Pushed to `master`
+
+- add plugins (lisowski54@gmail.com)
+- update auto (lisowski54@gmail.com)
+- test (lisowski54@gmail.com)
+- update deps (lisowski54@gmail.com)
+- `@autorelease/test-app@3.2.14`, `@autorelease/test-lib@4.2.11`
+  - Merge next into master (lisowski54@gmail.com)
+- `@autorelease/test-app@3.2.14`
+  - changed (lisowski54@gmail.com)
+- `@autorelease/test-app@3.2.14`
+  - change (lisowski54@gmail.com)
+- `@autorelease/test-app@3.2.14`
+  - private (lisowski54@gmail.com)
+- `@autorelease/test-app@3.2.14`
+  - Publish (lisowski54@gmail.com)
+- `@autorelease/test-app@3.2.14`
+  - test (lisowski54@gmail.com)
+- `@autorelease/test-lib@4.2.11`
+  - test (lisowski54@gmail.com)
+- `@autorelease/test-lib@4.2.11`
+  - test dpes (lisowski54@gmail.com)
+- `@autorelease/test-app@3.2.14`, `@autorelease/test-lib@4.2.11`
+  - fix versions (lisowski54@gmail.com)
+- `@autorelease/test-app@3.2.14`
+  - link: (lisowski54@gmail.com)
+- `@autorelease/test-lib@4.2.11`
+  - tester (lisowski54@gmail.com)
+- `@autorelease/test-app@3.2.14`, `@autorelease/test-lib@4.2.11`
+  - TEMP COMMIT (lisowski54@gmail.com)
+- `@autorelease/test-app@3.2.14`
+  - update app (lisowski54@gmail.com)
+- `@autorelease/test-lib@4.2.11`
+  - test 2 (lisowski54@gmail.com)
+- `@autorelease/test-app@3.2.14`, `@autorelease/test-lib@4.2.11`
+  - versions (lisowski54@gmail.com)
+- `@autorelease/test-lib@4.2.11`
+  - changes 1 (lisowski54@gmail.com)
+- `@autorelease/test-lib@4.2.11`
+  - changes (lisowski54@gmail.com)
+- `@autorelease/test-app@3.2.14`
+  - TEMP COMMIT (lisowski54@gmail.com)
+- `@autorelease/test-app@3.2.14`
+  - ROLL BACK (lisowski54@gmail.com)
+- `@autorelease/test-app@3.2.14`
+  - changes (lisowski54@gmail.com)
+
+#### Authors: 1
+
+- Andrew Lisowski ([@hipstersmoothie](https://github.com/hipstersmoothie))
+
+---
+
 # (Mon Aug 03 2020)
 
 #### ⚠️ Pushed to `master`
