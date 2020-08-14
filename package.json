@@ -11,7 +11,11 @@
     "release": "auto shipit -w"
   },
   "devDependencies": {
-    "auto": "^9.50.6",
+    "@auto-it/all-contributors": "^9.50.7",
+    "@auto-it/conventional-commits": "^9.50.7",
+    "@auto-it/first-time-contributor": "^9.50.7",
+    "@auto-it/released": "^9.50.7",
+    "auto": "^9.50.7",
     "lerna": "^3.13.4"
   },
   "version": "0.0.0",
