@@ -1,3 +1,15 @@
+# v4.2.12 (Fri Aug 14 2020)
+
+#### ⚠️ Pushed to `master`
+
+- test (lisowski54@gmail.com)
+
+#### Authors: 1
+
+- Andrew Lisowski (lisowski54@gmail.com)
+
+---
+
 # v4.2.11 (Fri Aug 14 2020)
 
 #### ⚠️ Pushed to `master`
