@@ -11,7 +11,7 @@
     "release": "auto shipit -w"
   },
   "devDependencies": {
-    "auto": "^9.49.3",
+    "auto": "^9.50.6",
     "lerna": "^3.13.4"
   },
   "version": "0.0.0",
