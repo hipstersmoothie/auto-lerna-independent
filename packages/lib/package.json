@@ -1,7 +1,7 @@
 {
   "name": "@autorelease/test-lib",
-  "version": "4.2.15-next.0",
-  "description": "> TODO:     ",
+  "version": "4.2.15-next.1",
+  "description": "> TODO:      ",
   "author": "Andrew Lisowski <lisowski54@gmail.com>",
   "homepage": "https://github.com/hipstersmoothie/auto-lerna-independant#readme",
   "license": "ISC",
@@ -25,5 +25,6 @@
   },
   "bugs": {
     "url": "https://github.com/hipstersmoothie/auto-lerna-independant/issues"
-  }
+  },
+  "gitHead": "85aa091c27b1da465a5b11cc1c203ea6c49b6dc2"
 }
