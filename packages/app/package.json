@@ -27,6 +27,6 @@
     "url": "https://github.com/hipstersmoothie/auto-lerna-independant/issues"
   },
   "dependencies": {
-    "@autorelease/test-lib": "link:../lib"
+    "@autorelease/test-lib": "4.2.13-next.0"
   }
 }
